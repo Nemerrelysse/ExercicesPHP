@@ -6,7 +6,7 @@
         ],
         [
             "label" => "page1",
-            "link" => "connect.php"
+            "link" => "page1.php"
         ]
     ];
 
